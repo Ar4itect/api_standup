@@ -1,0 +1,16 @@
+{
+  "name": "api_standup",
+  "version": "1.0.0",
+  "description": "api for service registration on standup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Alex R",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
